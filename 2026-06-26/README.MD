@@ -18,4 +18,4 @@
 - 'dict.py' – Dictionary programs without comprehension
 - 'dictComprehension.py' – Dictionary comprehension examples
 - 'generator.py' – Generator functions and yield
-- 'removeDuplicates.py' – Practice task using lists and dictionaries
+- 'removeDuplicates.py' – Practice task using lists and dictionaries.
