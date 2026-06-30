@@ -1,0 +1,6 @@
+Message: You have won a free prize
+Prediction: Spam
+
+Message: Hello, how are you?
+Prediction: Not Spam
+
