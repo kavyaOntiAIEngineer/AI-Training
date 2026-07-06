@@ -1,0 +1,6 @@
+2026-07-06 18:13:51 | INFO | Vehicle ID: Vehicle_101 | Event: Vehicle location updated | Latitude: 12.9716 | Longitude: 77.5946
+2026-07-06 18:25:01 | INFO | Application started
+2026-07-06 18:25:01 | ERROR | Application error
+2026-07-06 18:28:18 | WARNING | File log created
+2026-07-06 18:31:32 | ERROR | Database failure
+2026-07-06 18:34:08 | ERROR | Database connection failed
