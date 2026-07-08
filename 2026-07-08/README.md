@@ -38,5 +38,3 @@ https://jsonplaceholder.typicode.com
 - Sending API requests using Python
 - Managing API errors
 
-## 👩‍💻 Author
-**Kavya Onti**
