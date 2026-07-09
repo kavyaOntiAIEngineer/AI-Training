@@ -1,6 +1,6 @@
 # Student Performance Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Student Performance dataset collected from Kaggle.
 
@@ -10,7 +10,7 @@ The complete analysis includes data preprocessing, displaying data in tabular fo
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains student information and their exam performance in three subjects.
 
@@ -27,7 +27,7 @@ The dataset contains student information and their exam performance in three sub
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -40,7 +40,7 @@ The dataset contains student information and their exam performance in three sub
 
 ---
 
-## 📚 Libraries Used
+##  Libraries Used
 
 ```python
 import pandas as pd

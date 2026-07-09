@@ -1,6 +1,6 @@
 # World Happiness Report Analysis using Python
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs Exploratory Data Analysis on the World Happiness Report dataset from Kaggle.
 
