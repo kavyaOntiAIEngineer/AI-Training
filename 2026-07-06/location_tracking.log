@@ -4,3 +4,10 @@
 2026-07-06 18:28:18 | WARNING | File log created
 2026-07-06 18:31:32 | ERROR | Database failure
 2026-07-06 18:34:08 | ERROR | Database connection failed
+2026-07-06 18:36:24 | WARNING | Application running
+2026-07-06 18:38:08 | ERROR | Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\dell\AppData\Local\Temp\ipykernel_11836\984152777.py", line 13, in <module>
+    number = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero
