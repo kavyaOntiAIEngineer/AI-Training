@@ -1,0 +1,93 @@
+T1. What is Natural Language Processing (NLP)?
+
+Natural Language Processing (NLP) is a branch of Artificial Intelligence (AI) that enables computers to understand, process, analyze, and generate human language. It acts as a bridge between humans and computers by converting human language into a format that computers can understand and process.
+
+
+T2. Why do computers need NLP?
+
+Computers understand only binary numbers (0s and 1s). Human language is complex because it contains grammar, spelling mistakes, emotions, and different meanings. NLP helps computers understand and interpret this language.
+Example:
+A chatbot on a shopping website understands customer questions like "Where is my order?" and provides the appropriate response.
+
+
+T3. Four real-life applications of NLP
+
+Chatbots – Answer customer queries automatically.
+Machine Translation – Converts one language into another (e.g., English to Hindi).
+Sentiment Analysis – Identifies whether text is positive, negative, or neutral.
+Spam Detection – Detects unwanted emails or messages.
+
+
+T4. What is a rule-based NLP system?
+
+A rule-based NLP system follows predefined rules instead of learning from data.
+Example:
+If a message contains the word "Congratulations", it is marked as spam.
+
+if "Congratulations" in message:
+    print("Possible Spam")
+
+
+T5. Seven steps of the NLP pipeline
+
+Collect Text Data
+Text Cleaning
+Tokenization
+Remove Stopwords
+Stemming/Lemmatization
+Feature Extraction
+Train and Evaluate Machine Learning Model
+
+
+T6. What is tokenization?
+
+Tokenization is the process of breaking text into smaller units called tokens (words or sentences).
+Example:
+"I love NLP"
+becomes
+["I", "love", "NLP"]
+It is necessary because machine learning models cannot process raw text directly.
+
+
+T7. What are stopwords?
+
+Stopwords are commonly used words that usually do not add significant meaning.
+Examples:
+is
+the
+and
+They are removed to reduce unnecessary data and improve processing speed.
+
+
+T8. Why convert text to lowercase?
+
+Lowercasing treats words with different cases as the same word.
+Example:
+"Apple"
+"APPLE"
+"apple"
+After lowercase:
+apple
+apple
+apple
+This avoids duplicate words.
+
+
+T9. Four common mistakes beginners make in pandas
+
+Forgetting to import pandas.
+Using a wrong column name.
+Using = instead of == while filtering.
+Forgetting to handle missing values.
+
+
+T10. Difference between = and ==
+
+= assigns a value.
+== compares two values.
+Example:
+x = 10
+Assignment.
+df[df["Sentiment"]=="Positive"]
+Comparison.
+Using = inside filtering causes a syntax error because Python expects a comparison.
