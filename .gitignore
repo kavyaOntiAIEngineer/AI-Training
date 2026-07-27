@@ -1,6 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models
 *.h5
 *.keras
 *.ckpt
-__pycache__/
-.venv/
-.ipynb_checkpoints/
+*.pt
+*.pth
+*.onnx
+*.pickle
+*.pkl
+*.joblib
+
+# Datasets
+*.csv
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+
+# Hugging Face Cache
+huggingface/
+.cache/huggingface/
+
+# ChromaDB
+chroma/
