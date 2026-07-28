@@ -52,5 +52,4 @@ Thumbs.db
 huggingface/
 .cache/huggingface/
 
-# ChromaDB
 chroma/
